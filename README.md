@@ -39,7 +39,6 @@ Este projeto é um clone da página inicial da Netflix, desenvolvido com **HTML*
 
 ## 📷 Captura de Tela
 
-Adicione aqui uma captura de tela do projeto:  
 ![home-netflix-clone](https://github.com/user-attachments/assets/66443954-e3cc-4fad-929e-0ae10f5b26fc)
 
 
